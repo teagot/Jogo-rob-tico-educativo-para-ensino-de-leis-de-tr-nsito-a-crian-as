@@ -7,18 +7,31 @@ O presente documento, portanto, contém instruções de como construir o jogo pa
 1. Lista de componentes:
 
 1x Esp32 Dev Kit v1
-1x Beetle Esp32 C6
-1x Módulo Joystick KY-023
-1x Módulo Ponte H* (o utilizado foi um semelhante ao TB6612FNG)
-3x Bateria 3.7v, 650mAh, LiPo recarregável
-3x Chapa MDF 6mm, 60x90mm
-1x Chave interruptor
-2x Motor [não lembro nome do modelo, “d” alguma coisa]
-1x Tinta PVA Preta
-1x Tinta PVA Laranja
-1x Tinta PVA Branca
-1x Tinta PVA Vermelha
-1x “Borracinha de impressora?”
-?x Papelão
-?x Impressão 3d / Filamento PLA
 
+1x Beetle Esp32 C6
+
+1x Módulo Joystick KY-023
+
+1x Módulo Ponte H* (o utilizado foi um semelhante ao TB6612FNG)
+
+3x Bateria 3.7v, 650mAh, LiPo recarregável
+
+3x Chapa MDF 6mm, 60x90mm
+
+1x Chave interruptor
+
+2x Motor [não lembro nome do modelo, “d” alguma coisa]
+
+1x Tinta PVA Preta
+
+1x Tinta PVA Laranja
+
+1x Tinta PVA Branca
+
+1x Tinta PVA Vermelha
+
+1x “Borracinha de impressora?”
+
+?x Papelão
+
+?x Impressão 3d / Filamento PLA
