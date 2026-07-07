@@ -20,7 +20,7 @@ O presente documento, portanto, contém instruções de como construir o jogo pa
 
 1x Chave interruptor
 
-2x Motor [não lembro nome do modelo, “d” alguma coisa]
+2x Micro Motor N20
 
 1x Tinta PVA Preta
 
@@ -35,3 +35,18 @@ O presente documento, portanto, contém instruções de como construir o jogo pa
 ?x Papelão
 
 ?x Impressão 3d / Filamento PLA
+
+# A Construção do carrinho
+
+Chassi feito em impressão 3d:
+A estrutura base de suporte do veículo foi feita em impressão 3d, peça única, modelada no fusion. Segue abaixo modelo para impressão:
+
+(Inserir o arquivo do chassi)
+
+Dos componentes do carrinho:
+A estrutura foi pensada com tamanho suficiente para caber todos os componentes necessários. Na parte superior do veículo, foi colada a Beetle Esp32 C6, o driver de motor e duas das baterias em paralelo, que alimentam todo o circuito. Abaixo, nos devidos encaixes, os dois motores, que movimentam o carrinho. As rodas foram feitas utilizando [Borrachinhas de impressora?], junto a pequenos adaptadores impressos em 3d, que adequam o diâmetro do furo da borracha a bitola do eixo do motor. Seguem abaixo, fotos da montagem do carrinho.
+
+(Inserir foto da montagem do carrinho)
+(Inserir arquivo do adaptador de roda)
+
+As ligações (onde vai cada fio)
