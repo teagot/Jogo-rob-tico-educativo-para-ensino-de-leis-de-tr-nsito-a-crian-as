@@ -46,7 +46,8 @@ A estrutura base de suporte do veículo foi feita em impressão 3d, peça única
 Dos componentes do carrinho:
 A estrutura foi pensada com tamanho suficiente para caber todos os componentes necessários. Na parte superior do veículo, foi colada a Beetle Esp32 C6, o driver de motor e duas das baterias em paralelo, que alimentam todo o circuito. Abaixo, nos devidos encaixes, os dois motores, que movimentam o carrinho. As rodas foram feitas utilizando dois pedaços de borracha de rolete de impressora, cortados ao meio, junto a pequenos adaptadores impressos em 3d, que adequam o diâmetro do furo da borracha a bitola do eixo do motor. Seguem abaixo, fotos da montagem do carrinho.
 
-<img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/f264f1a4-c42e-4337-b1d3-8c69f744ff13" />
+<img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/f264f1a4-c42e-4337-b1d3-8c69f744ff13" />    <img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/74254477-899b-46a9-aae5-b25ceacafa8a" />
+
 
 As ligações (onde vai cada fio)
 
