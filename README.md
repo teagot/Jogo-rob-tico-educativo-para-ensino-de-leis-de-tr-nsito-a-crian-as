@@ -32,16 +32,14 @@ Lista de componentes:
 
 2x Borracha de impressora
 
-?x Papelão
+Papelão
 
-?x Impressão 3d / Filamento PLA
+Impressão 3d / Filamento PLA
 
 # A construção do carrinho
 
 Chassi feito em impressão 3D:
-A estrutura base de suporte do veículo foi feita em impressão 3d, peça única, modelada no fusion. Segue abaixo modelo para impressão:
-
-(Inserir o arquivo do chassi)
+A estrutura base de suporte do veículo foi feita em impressão 3d, peça única;
 
 Dos componentes do carrinho:
 A estrutura foi pensada com tamanho suficiente para caber todos os componentes necessários. Na parte superior do veículo, foi colada a Beetle Esp32 C6, o driver de motor e duas das baterias em paralelo, que alimentam todo o circuito. Abaixo, nos devidos encaixes, os dois motores, que movimentam o carrinho. As rodas foram feitas utilizando dois pedaços de borracha de rolete de impressora, cortados ao meio, junto a pequenos adaptadores impressos em 3d, que adequam o diâmetro do furo da borracha a bitola do eixo do motor. Seguem abaixo, fotos da montagem do carrinho.
