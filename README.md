@@ -44,14 +44,14 @@ A estrutura base de suporte do veículo foi feita em impressão 3d, peça única
 Dos componentes do carrinho:
 A estrutura foi pensada com tamanho suficiente para caber todos os componentes necessários. Na parte superior do veículo, foi colada a Beetle Esp32 C6, o driver de motor e duas das baterias em paralelo, que alimentam todo o circuito. Abaixo, nos devidos encaixes, os dois motores, que movimentam o carrinho. As rodas foram feitas utilizando dois pedaços de borracha de rolete de impressora, cortados ao meio, junto a pequenos adaptadores impressos em 3d, que adequam o diâmetro do furo da borracha a bitola do eixo do motor. Seguem abaixo, fotos da montagem do carrinho.
 
-<img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/f264f1a4-c42e-4337-b1d3-8c69f744ff13" />    <img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/74254477-899b-46a9-aae5-b25ceacafa8a" />
+<img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/f264f1a4-c42e-4337-b1d3-8c69f744ff13" />    <img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/74254477-899b-46a9-aae5-b25ceacafa8a" />
 
 
 As ligações (onde vai cada fio)
 
 (INSIRA FOTO DA GAMBIARRA E PONTUE OS FIOS)
 
-<img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/e30c3682-69fd-4c39-9d23-5d9992d855b9" />
+<img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/e30c3682-69fd-4c39-9d23-5d9992d855b9" />
 
 
 # Do controle remoto
@@ -59,7 +59,7 @@ As ligações (onde vai cada fio)
 Da estrutura e dos componentes:
 O controle é feito de forma simples; Esp32 Dev Kit v1, um módulo Joystick KY-023 e uma bateria 3.7v 650mAh. Tudo isso, guardado inserido em uma pequena caixa de papelão.
 
-<img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/8c838d57-0a33-4611-b125-9b344750d75a" />
+<img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/8c838d57-0a33-4611-b125-9b344750d75a" />
 
 
 As ligações (onde vai cada fio)
