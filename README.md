@@ -118,3 +118,8 @@ A estrutura base é construída com as três chapas de MDF mencionadas na lista 
  Obstáculos:
 Os obstáculos físicos (placa de pare, placa de obras na pista, placa de virada obrigatória, cones) foram parte modelados e impressos em impressão 3D, parte, feitos manualmente. Nesse sentido, os cones e as bases de sustentação das placas foram impressas, enquanto suas partes correspondentes à sinalização foram recortadas em papelão, e pintadas com tinta PVA. Os arquivos para impressão 3D estão contidos neste repositório, enquanto as partes de construção manual estão descritas e demonstradas abaixo:
 (INSIRA MEDIDAS E FOTOS)
+
+<img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/cceafd00-d8a8-4ac9-ae52-c1b3726d68de" />  <img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/d9f991f3-c8f7-4f61-a2c5-e79e35ee1a79" />  <img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/f9115fb9-e07e-420c-b8c0-94cf93c49241" />
+
+
+
