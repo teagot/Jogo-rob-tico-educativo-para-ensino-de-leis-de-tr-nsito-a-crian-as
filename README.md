@@ -12,7 +12,7 @@ Lista de componentes:
 
 1x Módulo Joystick KY-023;
 
-1x Módulo Ponte H* (o utilizado foi um semelhante ao TB6612FNG);
+1x Módulo Ponte H (o utilizado foi um semelhante ao TB6612FNG);
 
 3x Bateria 3.7v, 650mAh, LiPo recarregável;
 
