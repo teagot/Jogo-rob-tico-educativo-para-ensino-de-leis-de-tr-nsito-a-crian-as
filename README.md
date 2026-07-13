@@ -112,6 +112,9 @@ O controle atua como “server” Bluetooth, ou seja, quem envia os comandos, qu
  Estrutura base:
 A estrutura base é construída com as três chapas de MDF mencionadas na lista de materiais. As chapas possuem recortes que se encaixam para formar uma única estrutura, e gravações na forma de ruas, que guiam o caminho do jogo. Além disso, há faixas de pedestres gravadas na maquete. Esses recortes e gravações, feitos justamente em máquina de corte à laser, com os arquivos DXF localizados neste repositório.
 
+<img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/94321f75-64ac-439d-a02e-b5c8e4bfa50c" />
+
+
  Obstáculos:
 Os obstáculos físicos (placa de pare, placa de obras na pista, placa de virada obrigatória, cones) foram parte modelados e impressos em impressão 3D, parte, feitos manualmente. Nesse sentido, os cones e as bases de sustentação das placas foram impressas, enquanto suas partes correspondentes à sinalização foram recortadas em papelão, e pintadas com tinta PVA. Os arquivos para impressão 3D estão contidos neste repositório, enquanto as partes de construção manual estão descritas e demonstradas abaixo:
 (INSIRA MEDIDAS E FOTOS)
