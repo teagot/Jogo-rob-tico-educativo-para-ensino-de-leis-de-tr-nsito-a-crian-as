@@ -49,23 +49,38 @@ A estrutura foi pensada com tamanho suficiente para caber todos os componentes n
 
 As ligações (onde vai cada fio)
 GND é comum;
+
 Positivo da Bateria - BAT+ do esp;
+
 Negativo da Bateria - BAT- do esp;
 
+
 AIN1 do Driver - 3 do esp;
+
 AIN2 do Driver - 4 do esp;
+
 BIN1 do Driver - 6 do esp;
+
 BIN2 do Driver - 7 do esp;
 
+
 PWM A do Driver - Bateria;
+
 PWM B do Driver - Bateria;
+
 STBY do Driver - Bateria;
+
 VM do Driver - Bateria;
 
+
 AO1 do Driver - Positivo do Motor 1;
+
 AO2 do Driver - Negativo do Motor 1;
+
 BO1 do Driver - Positivo do Motor 2;
+
 BO2 do Driver - Negativo do Motor 2;
+
 (INSIRA FOTO DA GAMBIARRA E PONTUE OS FIOS)
 
 <img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/e30c3682-69fd-4c39-9d23-5d9992d855b9" />
